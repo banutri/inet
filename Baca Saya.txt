@@ -1,0 +1,6 @@
+Login as Admin:
+Link		: 127.0.0.1/inet/admin
+Username	: admin
+Password	: admin123
+
+SQL / Database	: inet_olshop.sql

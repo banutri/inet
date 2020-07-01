@@ -1,0 +1,38 @@
+.bg-image
+{
+	background-image:url("../../assets/img/sidebar.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+
+table.dataTable td th {
+  vertical-align:bottom;
+}
+
+.foto-barang
+{
+	width: 150px;
+	height: 150px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center center;
+	
+}
+
+/* ckeditor */
+.ck-editor__editable_inline {
+    min-height: 200px;
+}
+
+/* alert fixed*/
+.alert-fixed {
+  position:fixed; 
+  bottom:0; 
+  left:30px; 
+  z-index:9999; 
+  width:400px;
+
+}
+
+
+th.dt-center, td.dt-center { text-align: center; }
